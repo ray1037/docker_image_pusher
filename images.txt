@@ -1,12 +1,11 @@
 nginx
-#支持私库
+
 xhofe/alist:latest
 boredazfcuk/icloudpd:latest
 vaultwarden/server:latest
 linuxserver/calibre-web
 couchdb
 portainer/portainer-ce
-
 
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
